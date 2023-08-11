@@ -1,0 +1,11 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+li{
+    padding: 10px;
+    font-size: 24px;
+}
+ul{
+    background-color: aqua;
+}
